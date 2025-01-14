@@ -1,0 +1,13 @@
+bR,X,bB,bQ,X,bB2,bN2,bR2,
+bP1,X,bP3,bK,bP5,X,bP7,bP8,
+bN,X,X,bP4,X,X,X,X,
+X,bP2,X,X,X,wP5,X,X,
+X,X,X,wP4,X,X,X,X,
+X,X,X,X,X,wN2,X,X,
+wP1,wP2,wP3,X,X,wP6,wP7,wP8,
+wR,wN,wB,wQ,wK,wB2,X,wR2,
+
+bP6,
+arasu,0,w,F,
+AI2,0,b,T,
+2
