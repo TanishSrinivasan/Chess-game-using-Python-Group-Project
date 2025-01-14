@@ -21,7 +21,7 @@ This project is a Python-based chess game developed using the Pygame library, fe
 ### Steps to Run:  
 **1. Clone this repository:**  
    
-   git clone https://github.com/yourusername/chess-game.git
+   git clone https://github.com/TanishSrinivasan/Chess-game-using-Python-Group-Project.git
 
 
 **2. Navigate to the project directory:**
