@@ -69,12 +69,6 @@ Tanish Srinivasan**
 This project was guided by **Prachi Sahane**. Special thanks to the contributors and resources from the open-source community for inspiration and guidance.
 
 
-
-## License:
-This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
-
-
-
 ## Future Enhancements:
 **Online multiplayer support,
 More advanced AI with additional algorithms,
