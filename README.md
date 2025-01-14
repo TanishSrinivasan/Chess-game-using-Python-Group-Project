@@ -39,7 +39,9 @@ pip install pygame
 python main.py
 
 
-**Methodology:**
+## Methodology:
+
+
 **The project was developed following these steps:**
 
 **Setting Up the Chess Board:** Designed a graphical board using Pygame.
@@ -74,7 +76,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 
 ## Future Enhancements:
-**Online multiplayer support.
-More advanced AI with additional algorithms.
-Improved GUI with animations and themes.
+**Online multiplayer support,
+More advanced AI with additional algorithms,
+Improved GUI with animations and themes,
 Timed matches with a chess clock.**
